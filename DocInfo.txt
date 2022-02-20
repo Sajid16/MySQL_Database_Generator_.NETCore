@@ -1,0 +1,6 @@
+Scaffold-DbContext "User Id=****;Password=****;Data Source=10.11.201.14:1525/NSIDB;" Oracle.EntityFrameworkCore 
+Scaffold-DbContext "User Id=****;Password=****;Data Source=10.11.201.14:1525/NSIDB;" Oracle.EntityFrameworkCore -f
+
+Scaffold-DbContext "Server=DESKTOP-96VM6EI\SQL2014;Database=AccountingDB;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models 
+http://codingsonata.com/secure-asp-net-core-web-api-using-jwt-authentication/?fbclid=IwAR0pHTtp2zJuuwcDJ54O_js3f4QODmaC1AWf0RXQNOU0cqHRj66Tiq_IIiE
+Scaffold-DbContext "server=localhost;User Id=root;Password=;Database=assignment-task;Port=3306;" MySql.EntityFrameworkCore -f
